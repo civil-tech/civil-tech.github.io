@@ -1,6 +1,6 @@
 name: পুরঃকৌশলী
-description: a powerful jekyll theme
-url: #place url
+description: প্রতিদিনই নতুন কিছু শিখছি। এটা একটা নেশা। তাই শেখার সাথে সাথে ছড়িয়ে দিতে চাই
+url: http://civil-tech.github.io
 baseurl: #place folder name if site is served in subfolder
 permalink: /:title/
 paginate: 8
@@ -15,7 +15,7 @@ tumblr: "#"
 pinterest: "#"
 instagram: "#"
 twitter: "#"
-facebook: "#"
+facebook: "yhshanto"
 youtube: "#"
 vimeo: "#"
 soundcloud: "#"
